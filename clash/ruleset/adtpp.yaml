@@ -1,0 +1,76 @@
+payload:
+  - DOMAIN-KEYWORD,-cn
+  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,360buy
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,alimama
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-KEYWORD,appzapp
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,ccgslb
+  - DOMAIN-KEYWORD,chinacache
+  - DOMAIN-KEYWORD,duobao
+  - DOMAIN-KEYWORD,duolingo
+  - DOMAIN-KEYWORD,jdpay
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,moke
+  - DOMAIN-KEYWORD,netease
+  - DOMAIN-KEYWORD,officecdn
+  - DOMAIN-KEYWORD,qhimg
+  - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,vpimg
+  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,xiami
+  - DOMAIN-KEYWORD,xiaomi
+
+# Android apps-------------
+  # 社交
+  - PROCESS-NAME,com.tencent.mm #微信
+  - PROCESS-NAME,com.sina.weibo #新浪微博
+  - PROCESS-NAME,com.tencent.mobileqq #QQ
+  - PROCESS-NAME,com.douban.frodo #豆瓣
+  - PROCESS-NAME,com.alibaba.android.rimet #钉钉
+  # 媒体
+  - PROCESS-NAME,com.netease.cloudmusic #网易云音乐
+  - PROCESS-NAME,com.tencent.qqmusic #QQ音乐
+  - PROCESS-NAME,com.tencent.qqsports #腾讯体育
+  - PROCESS-NAME,com.ss.android.ugc.aweme #抖音
+  - PROCESS-NAME,com.youku.phone #优酷视频
+  - PROCESS-NAME,com.qiyi.video #爱奇艺
+  - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
+  - PROCESS-NAME,cn.kuwo.player #酷我音乐 
+  - PROCESS-NAME,com.hunantv.imgo.activity #芒果tv
+  - PROCESS-NAME,ccom.smile.gifmaker #快手
+  # bible
+  - PROCESS-NAME,com.cz.bible2 #精读圣经
+  # 购物
+  - PROCESS-NAME,com.jingdong.app.mall #京东
+  - PROCESS-NAME,com.taobao.taobao #淘宝
+  - PROCESS-NAME,com.tmall.wireless #天猫
+  - PROCESS-NAME,com.xunmeng.pinduoduo #拼多多
+  - PROCESS-NAME,me.ele #饿了么
+  - PROCESS-NAME,com.sankuai.meituan.takeoutnew #美团外卖
+  # 旅行
+  - PROCESS-NAME,com.baidu.BaiduMap #百度地图
+  - PROCESS-NAME,com.MobileTicket #12356铁路
+  - PROCESS-NAME,com.Qunar#去哪儿
+  - PROCESS-NAME,com.taobao.trip #飞猪
+  - PROCESS-NAME,com.autonavi.minimap #高德地图
+  - PROCESS-NAME,ctrip.android.view #携程旅行
+  # 网盘
+  - PROCESS-NAME,com.baidu.netdisk #百度网盘
+  - PROCESS-NAME,com.baidu.youavideo #一刻相册
+  - PROCESS-NAME,com.alicloud.databox #阿里云盘
+  # 支付
+  - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
+  - PROCESS-NAME,com.unionpay #云闪付
+  # 新闻
+  - PROCESS-NAME,com.tencent.news #腾讯新闻
+  - PROCESS-NAME,com.ss.android.article.news #今日头条
+  - PROCESS-NAME,com.netease.newsreader.activity #网易新闻
+  - PROCESS-NAME,com.wondertek.paper #澎湃新闻
+  - PROCESS-NAME,com.myzaker.ZAKER_Phone #zaker新闻
