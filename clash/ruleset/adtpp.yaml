@@ -30,6 +30,8 @@ payload:
   #wickr
   - DOMAIN-SUFFIX,wickr.com
   - DOMAIN,sessions.bugsnag.com
+  #threema
+  - DOMAIN-SUFFIX,threema.ch
 
 # Android apps-------------
   # 社交
