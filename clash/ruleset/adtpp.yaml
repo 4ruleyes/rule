@@ -27,6 +27,9 @@ payload:
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,xiami
   - DOMAIN-KEYWORD,xiaomi
+  #wickr
+  - DOMAIN-SUFFIX,wickr.com
+  - DOMAIN,sessions.bugsnag.com
 
 # Android apps-------------
   # 社交
