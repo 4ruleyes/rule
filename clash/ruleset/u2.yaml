@@ -1,5 +1,6 @@
 payload:
   # > YouTube
+  - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,withyoutube.com
   - DOMAIN-SUFFIX,youtu.be
