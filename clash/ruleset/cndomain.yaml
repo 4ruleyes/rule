@@ -1,5 +1,6 @@
 #direct
 payload:
+  - '.cn'
   - '+.126.com'
   - '+.126.net'
   - '+.127.net'
