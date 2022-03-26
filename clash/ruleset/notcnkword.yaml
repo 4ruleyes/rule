@@ -1,7 +1,6 @@
 #proxy
 payload:
   # keyword
-  - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
@@ -18,4 +17,5 @@ payload:
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,wikipedia
   - DOMAIN-KEYWORD,youtube
