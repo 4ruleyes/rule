@@ -1,5 +1,6 @@
 #direct
 payload:
+  - '+.cn'
   - '+.126.com'
   - '+.126.net'
   - '+.127.net'
@@ -82,7 +83,6 @@ payload:
   - '+.clouddn.com'
   - '+.cmbchina.com'
   - '+.cmbimg.com'
-  - '+.cn'
   - '+.cnbeta.com'
   - '+.cnbetacdn.com'
   - '+.com-hs-hkdy.com'
