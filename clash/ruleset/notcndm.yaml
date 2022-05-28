@@ -1,4 +1,3 @@
-#proxy
 payload:
   - '+.adblockplus.org'
   - '+.adobe.com'
