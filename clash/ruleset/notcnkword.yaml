@@ -1,6 +1,4 @@
-#proxy
 payload:
-  # keyword
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
