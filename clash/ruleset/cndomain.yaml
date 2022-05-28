@@ -1,4 +1,4 @@
-#direct
+
 payload:
   - '+.126.com'
   - '+.126.net'
@@ -367,11 +367,11 @@ payload:
   - 'download.jetbrains.com'
   - 'file-igamecj.akamaized.net'
   - 'speedtest.macpaw.com'
-  #supercell game
+
   - '+.brawlstars.com'
   - '+.brawlstarsgame.com'
   - 'supercell.helpshift.com'
-  #apple
+
   - 'www-cdn.icloud.com.akadns.net'
   - '+.aaplimg.com'
   - '+.apple-cloudkit.com'
@@ -386,7 +386,7 @@ payload:
   - '+.icloud.com.cn'
   - '+.me.com'
   - '+.mzstatic.com'
-  #tencent
+
   - 'fairplay.l.qq.com'
   - 'livew.l.qq.com'
   - 'vd.l.qq.com'
